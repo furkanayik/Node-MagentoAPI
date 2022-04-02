@@ -1,0 +1,23 @@
+[
+    {
+        "password.regex": "Şifre en az bir harf ve en az bir rakam içermelidir."
+    },
+    {
+        "password.minLength": "Şifre en az 5 karakter olmalı."
+    },
+    {
+        "password.required": "Şifre girilmeli"
+    },
+    {
+        "email.email": "Email geçerli değil."
+    },
+    {
+        "email.required": "Email girilmeli."
+    },
+    {
+        "firstname": "İsim alanı girilmeli."
+    },
+    {
+        "lastname": "Soyad alanı girilmeli"
+    }
+]
