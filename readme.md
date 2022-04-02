@@ -1,7 +1,8 @@
 # Magento Wrapper API
 NodeJS Developer Case Study Solution by Furkan Ayık
+*This was a case study from april 2021, Republished on 2 april 2022 :)
 
-[furkanayik.94@gmail.com](furkanayik.94@gmail.com)  
+[furkanayik.94@gmail.com](furkanayik.94@gmail.com)
 May 2021
 
 
